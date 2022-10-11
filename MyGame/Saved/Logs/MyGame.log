@@ -1,0 +1,1397 @@
+﻿Log file open, 10/11/22 16:55:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../MyGame/Content/Paks/MyGame-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../MyGame/Content/Paks/MyGame-WindowsNoEditor.pak.
+LogPakFile: PakFile PrimaryIndexSize=112422
+LogPakFile: PakFile PathHashIndexSize=95709
+LogPakFile: PakFile FullDirectoryIndexSize=216396
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../MyGame/Content/Paks/MyGame-WindowsNoEditor.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../MyGame/Content/Paks/MyGame-WindowsNoEditor.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000028
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.072197
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataRegistry
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin EnhancedInput
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 5800H with Radeon Graphics         , GPU: NVIDIA GeForce RTX 3060 Laptop GPU
+LogInit: Compiled (64-bit): Nov 30 2021 07:26:28
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/linsong/Desktop/Demo/WindowsNoEditor/MyGame/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../MyGame/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogConfig: Setting CVar [[s.AsyncLoadingUseFullTimeLimit:0]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../MyGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../MyGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.10.11-08.55.05:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../MyGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[s.AsyncLoadingUseFullTimeLimit:0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../MyGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.10.11-08.55.05:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../MyGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.10.11-08.55.05:763][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.10.11-08.55.05:763][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.10.11-08.55.05:763][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.10.11-08.55.05:763][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2022.10.11-08.55.05:763][  0]LogHAL: Display: Platform has ~ 16 GB [17041780736 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.11-08.55.05:763][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2022.10.11-08.55.05:763][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.11-08.55.05:764][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../MyGame/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.10.11-08.55.05:764][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../MyGame/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.10.11-08.55.05:765][  0]LogInit: Computer: LINSONG
+[2022.10.11-08.55.05:765][  0]LogInit: User: linsong
+[2022.10.11-08.55.05:765][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.10.11-08.55.05:765][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.11-08.55.05:765][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.11-08.55.05:765][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2022.10.11-08.55.05:765][  0]LogMemory: Process Physical Memory: 85.68 MB used, 85.69 MB peak
+[2022.10.11-08.55.05:765][  0]LogMemory: Process Virtual Memory: 87.71 MB used, 87.71 MB peak
+[2022.10.11-08.55.05:765][  0]LogMemory: Physical Memory: 5540.33 MB used,  10711.98 MB free, 16252.31 MB total
+[2022.10.11-08.55.05:765][  0]LogMemory: Virtual Memory: 134195576.00 MB used,  22154.59 MB free, 134217728.00 MB total
+[2022.10.11-08.55.05:800][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.11-08.55.05:844][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.10.11-08.55.05:845][  0]LogInit: Using OS detected language (zh-CN).
+[2022.10.11-08.55.05:845][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.10.11-08.55.05:846][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2022.10.11-08.55.05:846][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2022.10.11-08.55.05:889][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.10.11-08.55.05:907][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.11-08.55.05:907][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.11-08.55.05:931][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.10.11-08.55.05:934][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.11-08.55.05:934][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.10.11-08.55.05:934][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.10.11-08.55.05:934][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.11-08.55.06:033][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2022.10.11-08.55.06:033][  0]LogD3D11RHI:       6023/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.10.11-08.55.06:034][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.10.11-08.55.06:034][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.11-08.55.06:034][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.10.11-08.55.06:034][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.10.11-08.55.06:034][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.11-08.55.06:034][  0]LogD3D11RHI:     DeviceId    : 2560
+[2022.10.11-08.55.06:034][  0]LogD3D11RHI:     SubSysId    : 3a8017aa
+[2022.10.11-08.55.06:034][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.11-08.55.06:034][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.10.11-08.55.06:035][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.11-08.55.06:035][  0]LogD3D11RHI:     SharedSystemMemory : 8520890368 bytes
+[2022.10.11-08.55.06:035][  0]LogD3D11RHI:     AdapterLuid : 0 60722
+[2022.10.11-08.55.06:041][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.11-08.55.06:041][  0]LogD3D11RHI:     GPU DeviceId: 0x2560 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.11-08.55.06:041][  0]LogWindows: EnumDisplayDevices:
+[2022.10.11-08.55.06:041][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:1 D:1)
+[2022.10.11-08.55.06:041][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:1)
+[2022.10.11-08.55.06:042][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2022.10.11-08.55.06:042][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2022.10.11-08.55.06:042][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:   Driver Version: 512.36 (internal:30.0.15.1236, unified:512.36)
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:      Driver Date: 4-4-2022
+[2022.10.11-08.55.06:042][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:     DeviceId    : 2560
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:     SubSysId    : 3a8017aa
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:     SharedSystemMemory : 8520890368 bytes
+[2022.10.11-08.55.06:042][  0]LogD3D11RHI:     AdapterLuid : 0 60722
+[2022.10.11-08.55.06:091][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.10.11-08.55.06:091][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.11-08.55.06:091][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.10.11-08.55.06:093][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2022.10.11-08.55.06:106][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.10.11-08.55.06:159][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.10.11-08.55.06:160][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.11-08.55.06:162][  0]LogShaderLibrary: Display: Using ../../../MyGame/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 1951 unique shaders.
+[2022.10.11-08.55.06:162][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2022.10.11-08.55.06:162][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
+[2022.10.11-08.55.06:162][  0]LogTemp: Warning: Clearing the OS Cache
+[2022.10.11-08.55.06:162][  0]LogODSC: ODSC Thread active.
+[2022.10.11-08.55.06:164][  0]LogPakFile: New pak file ../../../MyGame/Content/Paks/MyGame-WindowsNoEditor.pak added to pak precacher.
+[2022.10.11-08.55.06:182][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.11-08.55.06:182][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.11-08.55.06:214][  0]LogShaderLibrary: Display: Using ../../../MyGame/Content/ShaderArchive-MyGame-PCD3D_SM5.ushaderbytecode for material shader code. Total 5542 unique shaders.
+[2022.10.11-08.55.06:214][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library MyGame
+[2022.10.11-08.55.06:214][  0]LogShaderLibrary: Display: Logical shader library 'MyGame' has been created, components 1
+[2022.10.11-08.55.06:214][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2022.10.11-08.55.06:215][  0]LogShaderLibrary: Display: Using ../../../MyGame/Content/ShaderArchive-MyGame-PCD3D_SM5.ushaderbytecode for material shader code. Total 5542 unique shaders.
+[2022.10.11-08.55.06:215][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library MyGame
+[2022.10.11-08.55.06:215][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2022.10.11-08.55.06:215][  0]LogRHI: Display: Failed to open default shader pipeline cache for MyGame using shader platform 0.
+[2022.10.11-08.55.06:215][  0]LogRHI: Display: Failed to open default shader pipeline cache for MyGame using shader platform 0.
+[2022.10.11-08.55.06:215][  0]LogInit: Using OS detected language (zh-CN).
+[2022.10.11-08.55.06:215][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.10.11-08.55.06:215][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2022.10.11-08.55.06:215][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2022.10.11-08.55.06:217][  0]LogTextLocalizationManager: Compacting localization data took   0.50ms
+[2022.10.11-08.55.06:217][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2022.10.11-08.55.06:285][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.10.11-08.55.06:285][  0]LogPackageLocalizationCache: Processed 26 localized package path(s) for 1 prioritized culture(s) in 0.000053 seconds
+[2022.10.11-08.55.06:291][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2022.10.11-08.55.06:291][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.10.11-08.55.06:292][  0]LogInit: Active device profile: [000001B904BC2EC0][000001B97FEEB6E0 49] WindowsNoEditor
+[2022.10.11-08.55.06:292][  0]LogInit: Profiles: [000001B904BC0040][000001B96FEF4930 49] Windows, [000001B904BC2EC0][000001B97FEEB6E0 49] WindowsNoEditor, 
+[2022.10.11-08.55.06:313][  0]LogNetVersion: MyGame 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 320476289)
+[2022.10.11-08.55.06:343][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.11-08.55.06:343][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.11-08.55.06:344][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.10.11-08.55.06:344][  0]LogMaterial: Error: Loading a material resource None with an invalid ShaderMap!
+[2022.10.11-08.55.06:345][  0]LogMaterial: Error: Tried to access an uncooked shader map ID in a cooked application
+[2022.10.11-08.55.06:345][  0]LogMaterial: Warning: Invalid shader map ID caching shaders for 'OculusMR_ChromaKey', will use default material.
+[2022.10.11-08.55.06:345][  0]LogMaterial: Can't compile OculusMR_ChromaKey with cooked content, will use default material instead
+[2022.10.11-08.55.06:345][  0]LogMaterial: Warning: [AssetLog] /OculusVR/Materials/OculusMR_ChromaKey.OculusMR_ChromaKey: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.10.11-08.55.06:346][  0]LogActor: Warning: SetReplicates called on non-initialized actor Default__ItemChest. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2022.10.11-08.55.06:360][  0]LogMoviePlayer: Initializing movie player
+[2022.10.11-08.55.06:361][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B7B73982419E383E128C2086AFBC007D | Instance: 79C2AAF6469DDBD877B095A439FB20FB (LINSONG-23420).
+[2022.10.11-08.55.06:362][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.11-08.55.06:362][  0]LogOcInput: OculusInput pre-init called
+[2022.10.11-08.55.06:366][  0]LogUObjectArray: 16739 objects as part of root set at end of initial load.
+[2022.10.11-08.55.06:366][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2022.10.11-08.55.06:366][  0]LogUObjectAllocator: 3434808 out of 0 bytes used by permanent object pool.
+[2022.10.11-08.55.06:366][  0]LogUObjectArray: CloseDisregardForGC: 16739/16739 objects in disregard for GC pool
+[2022.10.11-08.55.06:367][  0]LogEngine: Initializing Engine...
+[2022.10.11-08.55.06:369][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.10.11-08.55.06:369][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.11-08.55.06:370][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.11-08.55.06:409][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.11-08.55.06:409][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.11-08.55.06:409][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.11-08.55.06:410][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.11-08.55.06:410][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.11-08.55.06:410][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.11-08.55.06:410][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.11-08.55.06:410][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.11-08.55.06:410][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.11-08.55.06:410][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.11-08.55.06:410][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.11-08.55.06:410][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.11-08.55.06:410][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.11-08.55.06:410][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.11-08.55.06:410][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.11-08.55.06:410][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.11-08.55.06:410][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.11-08.55.06:410][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.11-08.55.06:416][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.11-08.55.06:457][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.11-08.55.06:457][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.10.11-08.55.06:872][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2022.10.11-08.55.06:873][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.11-08.55.06:874][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.11-08.55.06:874][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.11-08.55.06:874][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.11-08.55.06:874][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.11-08.55.06:874][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.11-08.55.06:875][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.11-08.55.06:875][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.11-08.55.06:875][  0]LogInit: FAudioDevice initialized.
+[2022.10.11-08.55.06:875][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.11-08.55.06:876][  0]LogInit: Texture streaming: Enabled
+[2022.10.11-08.55.06:878][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.11-08.55.06:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.11-08.55.06:879][  0]LogInit: Display: Game Engine Initialized.
+[2022.10.11-08.55.06:879][  0]LogInit: Display: Starting Game.
+[2022.10.11-08.55.06:879][  0]LogNet: Browse: /Game/MyGame/Maps/MainUIMap?Name=Player
+[2022.10.11-08.55.06:879][  0]LogLoad: LoadMap: /Game/MyGame/Maps/MainUIMap?Name=Player
+[2022.10.11-08.55.06:879][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.10.11-08.55.06:880][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-08.55.06:880][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-08.55.06:881][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.11-08.55.06:882][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.11-08.55.06:977][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainUIMap'.
+[2022.10.11-08.55.06:977][  0]LogAIModule: Creating AISystem for world MainUIMap
+[2022.10.11-08.55.06:978][  0]LogLoad: Game class is 'BP_MainUIGameMode_C'
+[2022.10.11-08.55.06:979][  0]LogWorld: Bringing World /Game/MyGame/Maps/MainUIMap.MainUIMap up for play (max tick rate 0) at 2022.10.11-16.55.06
+[2022.10.11-08.55.06:979][  0]LogWorld: Bringing up level for play took: 0.000457
+[2022.10.11-08.55.06:979][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.11-08.55.06:979][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.11-08.55.06:979][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.11-08.55.06:979][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.11-08.55.06:981][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.11-08.55.06:981][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.10.11-08.55.06:981][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.11-08.55.06:981][  0]LogLoad: Took 0.102070 seconds to LoadMap(/Game/MyGame/Maps/MainUIMap)
+[2022.10.11-08.55.06:982][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont' (155K)
+[2022.10.11-08.55.06:986][  0]LogSlate: Took 0.004257 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont' (3848K)
+[2022.10.11-08.55.06:986][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2022.10.11-08.55.07:043][  0]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.11-08.55.07:073][  0]LogRenderer: Reallocating scene render targets to support 1708x1068 Format 10 NumSamples 1 (Frame:1).
+[2022.10.11-08.55.07:073][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2022.10.11-08.55.07:073][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=689884, PathHashSize=16, EntriesSize=114688, TotalSize=804588
+[2022.10.11-08.55.07:073][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2022.10.11-08.55.07:073][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2022.10.11-08.55.07:073][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.11-08.55.07:073][  0]LogLoad: (Engine Initialization) Total time: 1.67 seconds
+[2022.10.11-08.55.07:076][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.11-08.55.13:972][685]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.11-08.55.13:972][685]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.11-08.55.13:972][685]LogNet: Browse: /Game/MyGame/Maps/NewMap?Name=Player
+[2022.10.11-08.55.13:972][685]LogLoad: LoadMap: /Game/MyGame/Maps/NewMap?Name=Player
+[2022.10.11-08.55.13:972][685]LogWorld: BeginTearingDown for /Game/MyGame/Maps/MainUIMap
+[2022.10.11-08.55.13:973][685]LogWorld: UWorld::CleanupWorld for MainUIMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-08.55.13:973][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-08.55.14:004][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.11-08.55.14:008][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.11-08.55.14:010][685]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.10.11-08.55.14:145][685]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2022.10.11-08.55.14:146][685]LogAIModule: Creating AISystem for world NewMap
+[2022.10.11-08.55.14:146][685]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.11-08.55.14:152][685]LogWorld: Bringing World /Game/MyGame/Maps/NewMap.NewMap up for play (max tick rate 0) at 2022.10.11-16.55.14
+[2022.10.11-08.55.14:152][685]LogWorld: Bringing up level for play took: 0.005698
+[2022.10.11-08.55.14:154][685]LogScript: Warning: Script Msg: Divide by zero detected: 179.999954 / 0
+Script call stack:
+	Function /Game/MyGame/Models/Player/Player_AnimBlueprint.Player_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/MyGame/Models/Player/Player_AnimBlueprint.Player_AnimBlueprint_C:ExecuteUbergraph_Player_AnimBlueprint
+
+[2022.10.11-08.55.14:156][685]LogActor: Warning: BP_SwordWeapon_C /Game/MyGame/Maps/NewMap.NewMap:PersistentLevel.BP_SwordWeapon_C_2147482449 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.11-08.55.14:156][685]LogActor: Warning: BP_SwordWeapon_C /Game/MyGame/Maps/NewMap.NewMap:PersistentLevel.BP_SwordWeapon_C_2147482448 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.11-08.55.14:156][685]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.10.11-08.55.14:156][685]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.10.11-08.55.14:156][685]LogTemp: Actions Num: 1
+[2022.10.11-08.55.14:156][685]LogTemp: Actions Num: 2
+[2022.10.11-08.55.14:159][685]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.11-08.55.14:171][685]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.012 s
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: 
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: Ensure condition failed: PowerupClasses.Num() > 0 [File:E:\GitHub\LearnUE4\MyGame\Source\MyGame\Private\MyGameModeBase.cpp] [Line: 30]
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: 
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: Stack: 
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff65d39ffe6 MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff657988097 MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff65c0774ee MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff65bfaf890 MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff65bf5ffe2 MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff65bfce238 MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff65b6685bc MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff65678df64 MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff6567a47df MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff6567a48aa MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff6567a6cac MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff6567b84f4 MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007ff65d18e9fe MyGame.exe!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007fffb8707034 KERNEL32.DLL!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: [Callstack] 0x00007fffb88426a1 ntdll.dll!UnknownFunction []
+[2022.10.11-08.55.14:171][685]LogOutputDevice: Error: 
+[2022.10.11-08.55.14:178][685]LogStats:                SubmitErrorReport -  0.000 s
+[2022.10.11-08.55.14:417][685]LogStats:                    SendNewReport -  0.239 s
+[2022.10.11-08.55.14:417][685]LogStats:             FDebug::EnsureFailed -  0.259 s
+[2022.10.11-08.55.14:418][685]LogLoad: Took 0.445640 seconds to LoadMap(/Game/MyGame/Maps/NewMap)
+[2022.10.11-08.55.14:425][686]LogMaterial: Warning: M_LandScapeRock: Requesting an invalid TextureIndex! (1 / 5)
+[2022.10.11-08.55.14:603][687]LogRenderer: Reallocating scene render targets to support 1708x1432 Format 10 NumSamples 1 (Frame:2).
+[2022.10.11-08.55.15:720][823]LogConsoleResponse: Display: Failed to allocate VT page from pool 0
+[2022.10.11-08.55.15:720][823]LogConsoleResponse: Display:   PF_DXT5
+[2022.10.11-08.55.15:720][823]LogConsoleResponse: Display:   PF_DXT5
+[2022.10.11-08.55.16:032][848]LogTemp: Find 1 alive bots.
+[2022.10.11-08.55.18:041][ 17]LogTemp: Find 2 alive bots.
+[2022.10.11-08.55.18:776][ 80]LogRenderer: Reallocating scene render targets to support 1708x1068 Format 10 NumSamples 1 (Frame:395).
+[2022.10.11-08.55.21:267][331]LogRenderer: Reallocating scene render targets to support 1708x1432 Format 10 NumSamples 1 (Frame:646).
+[2022.10.11-08.55.22:434][429]LogRenderer: Reallocating scene render targets to support 1708x1068 Format 10 NumSamples 1 (Frame:744).
+[2022.10.11-08.55.24:584][646]LogRenderer: Reallocating scene render targets to support 1708x1432 Format 10 NumSamples 1 (Frame:961).
+[2022.10.11-08.55.24:725][656]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.24:725][656]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.26:721][824]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.26:721][824]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.28:728][998]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.28:728][998]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.28:811][  4]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.11-08.55.28:811][  4]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.10.11-08.55.28:812][  4]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.11-08.55.30:286][128]LogActor: Warning: BP_SwordWeapon1_C /Game/MyGame/Maps/NewMap.NewMap:PersistentLevel.BP_SwordWeapon1_C_2147481939 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.11-08.55.30:286][128]LogActor: Warning: BP_SwordWeapon1_C /Game/MyGame/Maps/NewMap.NewMap:PersistentLevel.BP_SwordWeapon1_C_2147481938 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.11-08.55.30:720][164]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.30:720][164]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.32:571][319]LogActor: Warning: BP_SwordWeapon_C /Game/MyGame/Maps/NewMap.NewMap:PersistentLevel.BP_SwordWeapon_C_2147481828 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.11-08.55.32:571][319]LogActor: Warning: BP_SwordWeapon_C /Game/MyGame/Maps/NewMap.NewMap:PersistentLevel.BP_SwordWeapon_C_2147481827 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.11-08.55.32:724][332]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.32:724][332]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.34:724][500]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.34:725][500]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.36:728][668]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.36:729][668]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.37:825][760]LogTemp: Actions Num: 3
+[2022.10.11-08.55.38:720][836]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.38:720][836]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.40:728][  5]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.40:728][  5]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.41:380][ 60]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.11-08.55.41:380][ 60]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.11-08.55.41:410][ 64]LogRenderer: Reallocating scene render targets to support 1708x1068 Format 10 NumSamples 1 (Frame:2379).
+[2022.10.11-08.55.42:728][206]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.42:728][206]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.44:720][429]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.44:720][429]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.46:422][611]LogTemp: Running: BP_SprintAction_C_2147482446
+[2022.10.11-08.55.46:722][642]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.46:722][642]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.47:939][768]LogTemp: Stopped: BP_SprintAction_C_2147482446
+[2022.10.11-08.55.48:722][856]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.48:722][856]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.50:728][ 80]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.50:728][ 80]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.52:725][310]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.52:725][310]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.54:535][519]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.54:725][542]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.54:725][542]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.54:886][561]LogTemp: Running: BP_SprintAction_C_2147482446
+[2022.10.11-08.55.55:544][640]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.56:050][701]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.56:553][767]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.56:720][790]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.56:720][790]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.56:744][793]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.57:053][837]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.57:247][867]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.57:553][908]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.57:751][938]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.57:862][957]LogTemp: Stopped: BP_SprintAction_C_2147482446
+[2022.10.11-08.55.58:067][981]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.58:072][982]LogTemp: OnActorHit
+[2022.10.11-08.55.58:262][ 15]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.58:569][ 70]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.58:724][ 97]LogTemp: Find 3 alive bots.
+[2022.10.11-08.55.58:724][ 97]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.55.58:763][103]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.58:796][109]LogTemp: OnActorOverlap
+[2022.10.11-08.55.58:796][109]LogTemp: Actions Num: 4
+[2022.10.11-08.55.58:796][109]LogTemp: Running: BP_EffectBurn_C_2147481564
+[2022.10.11-08.55.58:990][143]LogTemp: OnActorHit
+[2022.10.11-08.55.59:074][158]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.59:263][190]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.59:579][245]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.59:768][276]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.55.59:785][279]LogTemp: OnActorHit
+[2022.10.11-08.56.00:011][317]LogTemp: OnActorOverlap
+[2022.10.11-08.56.00:011][317]LogTemp: Actions Num: 5
+[2022.10.11-08.56.00:011][317]LogTemp: Running: BP_EffectBurn_C_2147481548
+[2022.10.11-08.56.00:084][330]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.00:268][363]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.00:594][414]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.00:721][427]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.00:721][427]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.00:919][448]LogTemp: OnActorHit
+[2022.10.11-08.56.01:801][586]LogTemp: Stopped: BP_EffectBurn_C_2147481564
+[2022.10.11-08.56.01:801][586]LogTemp: ActionRemove...
+[2022.10.11-08.56.01:890][602]LogTemp: OnActorKilled: Victim: BP_AI_C_2147482430, Killer: BP_PlayerCharacter_C_2147482452
+[2022.10.11-08.56.02:729][742]LogTemp: Find 2 alive bots.
+[2022.10.11-08.56.03:015][772]LogTemp: Stopped: BP_EffectBurn_C_2147481548
+[2022.10.11-08.56.03:015][772]LogTemp: ActionRemove...
+[2022.10.11-08.56.03:106][782]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.03:615][832]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.04:119][876]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.04:624][919]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.04:718][927]LogTemp: OnActorHit
+[2022.10.11-08.56.04:730][928]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.04:730][928]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.05:097][959]LogTemp: OnActorOverlap
+[2022.10.11-08.56.05:097][959]LogTemp: Actions Num: 4
+[2022.10.11-08.56.05:097][959]LogTemp: Running: BP_EffectBurn_C_2147481522
+[2022.10.11-08.56.05:133][962]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.05:643][  5]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.05:856][ 23]LogTemp: OnActorHit
+[2022.10.11-08.56.06:727][102]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.06:727][102]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.08:097][245]LogTemp: Stopped: BP_EffectBurn_C_2147481522
+[2022.10.11-08.56.08:097][245]LogTemp: ActionRemove...
+[2022.10.11-08.56.08:679][306]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.08:729][311]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.08:729][311]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.09:179][360]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.09:686][425]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.10:187][496]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.10:304][510]LogTemp: OnActorHit
+[2022.10.11-08.56.10:321][512]LogTemp: OnActorKilled: Victim: BP_AI_C_2147482413, Killer: BP_PlayerCharacter_C_2147482452
+[2022.10.11-08.56.10:691][556]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.10:724][560]LogTemp: Find 2 alive bots.
+[2022.10.11-08.56.11:132][608]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.11:196][615]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.11:640][665]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.12:145][727]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.12:645][788]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.12:720][797]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.12:721][797]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.13:150][851]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.13:650][915]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.13:820][936]LogTemp: OnActorOverlap
+[2022.10.11-08.56.13:820][936]LogTemp: Actions Num: 4
+[2022.10.11-08.56.13:820][936]LogTemp: Running: BP_EffectBurn_C_2147481473
+[2022.10.11-08.56.14:158][975]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.14:513][ 17]LogTemp: OnActorHit
+[2022.10.11-08.56.14:528][ 19]LogTemp: OnActorHit
+[2022.10.11-08.56.14:597][ 24]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.14:659][ 28]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.14:721][ 36]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.14:721][ 36]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.15:103][ 85]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.15:162][ 95]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.15:205][103]LogTemp: OnActorHit
+[2022.10.11-08.56.15:518][148]LogTemp: OnActorHit
+[2022.10.11-08.56.15:605][164]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.16:107][252]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.16:545][331]LogTemp: OnActorHit
+[2022.10.11-08.56.16:612][343]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.16:688][357]LogTemp: OnActorKilled: Victim: BP_AI_C_2147481529, Killer: BP_PlayerCharacter_C_2147482452
+[2022.10.11-08.56.16:723][363]LogTemp: Find 2 alive bots.
+[2022.10.11-08.56.16:822][381]LogTemp: Stopped: BP_EffectBurn_C_2147481473
+[2022.10.11-08.56.16:822][381]LogTemp: ActionRemove...
+[2022.10.11-08.56.17:112][433]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.17:173][444]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.17:677][534]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.18:179][619]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.18:680][702]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.18:724][709]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.18:724][709]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.18:908][739]LogTemp: OnActorHit
+[2022.10.11-08.56.19:180][784]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.19:687][868]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.19:807][888]LogTemp: OnActorHit
+[2022.10.11-08.56.20:190][951]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.20:695][ 34]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.20:723][ 39]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.20:723][ 39]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.21:061][ 95]LogTemp: OnActorHit
+[2022.10.11-08.56.21:701][209]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.22:095][281]LogTemp: Running: BP_SprintAction_C_2147482446
+[2022.10.11-08.56.22:205][301]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.22:705][391]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.22:721][394]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.22:721][394]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.23:208][487]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.23:733][594]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.24:234][700]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.24:717][798]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.24:722][799]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.24:722][799]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.24:734][801]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.25:234][890]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.25:734][980]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.26:239][ 67]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.26:724][148]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.26:724][148]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.26:741][151]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.27:245][237]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.27:747][328]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.28:183][412]LogTemp: Stopped: BP_SprintAction_C_2147482446
+[2022.10.11-08.56.28:250][426]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.28:724][512]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.28:724][512]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.29:761][691]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.30:720][870]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.30:720][870]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.31:266][983]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.31:399][ 11]LogTemp: Running: BP_SprintAction_C_2147482446
+[2022.10.11-08.56.31:766][ 89]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.32:266][193]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.32:725][281]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.32:725][281]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.32:773][288]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.33:786][416]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.34:071][451]LogTemp: HasAny
+[2022.10.11-08.56.34:286][477]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.34:453][497]LogTemp: Stopped: BP_SprintAction_C_2147482446
+[2022.10.11-08.56.34:720][529]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.34:720][529]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.34:786][537]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.35:237][591]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.35:237][591]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.35:237][591]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.35:287][597]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.35:438][615]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.35:788][657]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.36:112][695]LogTemp: OnActorHit
+[2022.10.11-08.56.36:253][712]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.36:253][712]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.36:253][712]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.36:295][717]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.36:455][736]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.36:721][768]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.36:721][768]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.36:795][777]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.36:928][793]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.36:928][793]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.36:929][793]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.37:137][818]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.37:145][819]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.37:145][819]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.37:145][819]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.37:212][827]LogTemp: OnActorOverlap
+[2022.10.11-08.56.37:212][827]LogTemp: Actions Num: 1
+[2022.10.11-08.56.37:212][827]LogTemp: Running: BP_EffectBurn_C_2147481419
+[2022.10.11-08.56.37:305][838]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.37:346][843]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.37:578][871]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.37:578][871]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.37:578][871]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.37:638][878]LogTemp: OnActorOverlap
+[2022.10.11-08.56.37:638][878]LogTemp: Actions Num: 2
+[2022.10.11-08.56.37:638][878]LogTemp: Running: BP_EffectBurn_C_2147481414
+[2022.10.11-08.56.37:763][893]LogTemp: OnActorOverlap
+[2022.10.11-08.56.37:763][893]LogTemp: Actions Num: 3
+[2022.10.11-08.56.37:763][893]LogTemp: Running: BP_EffectBurn_C_2147481411
+[2022.10.11-08.56.37:779][895]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.37:805][898]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.38:080][931]LogTemp: OnActorOverlap
+[2022.10.11-08.56.38:080][931]LogTemp: Actions Num: 4
+[2022.10.11-08.56.38:080][931]LogTemp: Running: BP_EffectBurn_C_2147481406
+[2022.10.11-08.56.38:312][959]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.38:720][ 15]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.38:720][ 15]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.38:812][ 27]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.39:319][ 97]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.39:824][167]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.40:218][223]LogTemp: Stopped: BP_EffectBurn_C_2147481419
+[2022.10.11-08.56.40:218][223]LogTemp: ActionRemove...
+[2022.10.11-08.56.40:329][238]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.40:641][280]LogTemp: Stopped: BP_EffectBurn_C_2147481414
+[2022.10.11-08.56.40:641][280]LogTemp: ActionRemove...
+[2022.10.11-08.56.40:720][291]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.40:720][291]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.40:766][297]LogTemp: Stopped: BP_EffectBurn_C_2147481411
+[2022.10.11-08.56.40:766][297]LogTemp: ActionRemove...
+[2022.10.11-08.56.40:836][306]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.41:086][340]LogTemp: Stopped: BP_EffectBurn_C_2147481406
+[2022.10.11-08.56.41:086][340]LogTemp: ActionRemove...
+[2022.10.11-08.56.41:337][372]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.41:841][463]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.42:262][555]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.42:262][555]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.42:262][555]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.42:346][573]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.42:463][598]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.42:584][624]LogTemp: OnActorOverlap
+[2022.10.11-08.56.42:584][624]LogTemp: Actions Num: 1
+[2022.10.11-08.56.42:584][624]LogTemp: Running: BP_EffectBurn_C_2147481399
+[2022.10.11-08.56.42:603][628]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.42:603][628]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.42:603][628]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.42:720][653]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.42:720][653]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.42:807][671]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.42:850][681]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.42:869][685]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.42:870][685]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.42:870][685]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.42:916][695]LogTemp: OnActorOverlap
+[2022.10.11-08.56.42:916][695]LogTemp: Actions Num: 2
+[2022.10.11-08.56.42:917][695]LogTemp: Running: BP_EffectBurn_C_2147481393
+[2022.10.11-08.56.43:071][727]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.43:083][729]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.43:083][729]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.43:083][729]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.43:133][740]LogTemp: OnActorOverlap
+[2022.10.11-08.56.43:133][740]LogTemp: Actions Num: 3
+[2022.10.11-08.56.43:133][740]LogTemp: Running: BP_EffectBurn_C_2147481388
+[2022.10.11-08.56.43:287][772]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.43:351][785]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.43:359][787]LogTemp: OnActorOverlap
+[2022.10.11-08.56.43:359][787]LogTemp: Actions Num: 4
+[2022.10.11-08.56.43:360][787]LogTemp: Running: BP_EffectBurn_C_2147481384
+[2022.10.11-08.56.43:624][843]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.43:624][843]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.43:624][843]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.43:825][885]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.43:850][891]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.43:870][895]LogTemp: OnActorOverlap
+[2022.10.11-08.56.43:871][895]LogTemp: Actions Num: 5
+[2022.10.11-08.56.43:871][895]LogTemp: Running: BP_EffectBurn_C_2147481379
+[2022.10.11-08.56.44:021][925]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.44:021][925]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.44:021][925]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.44:228][965]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.44:288][976]LogTemp: OnActorOverlap
+[2022.10.11-08.56.44:289][976]LogTemp: Actions Num: 6
+[2022.10.11-08.56.44:289][976]LogTemp: Running: BP_EffectBurn_C_2147481374
+[2022.10.11-08.56.44:351][988]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.44:631][ 25]LogTemp: Running: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.44:631][ 25]LogTemp: Play AttackAnim!
+[2022.10.11-08.56.44:632][ 25]LogTemp: StartAction_Implementation
+[2022.10.11-08.56.44:723][ 36]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.44:723][ 36]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.44:837][ 50]LogTemp: Stopped: BP_MagicProjectileAction_C_2147481704
+[2022.10.11-08.56.44:854][ 52]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.44:861][ 53]LogTemp: OnActorOverlap
+[2022.10.11-08.56.44:870][ 54]LogTemp: OnActorOverlap
+[2022.10.11-08.56.44:870][ 54]LogTemp: OnActorOverlap
+[2022.10.11-08.56.44:870][ 54]LogTemp: Actions Num: 7
+[2022.10.11-08.56.44:870][ 54]LogTemp: Running: BP_EffectBurn_C_2147481369
+[2022.10.11-08.56.45:354][114]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.45:585][144]LogTemp: Stopped: BP_EffectBurn_C_2147481399
+[2022.10.11-08.56.45:585][144]LogTemp: ActionRemove...
+[2022.10.11-08.56.45:856][179]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.45:921][187]LogTemp: Stopped: BP_EffectBurn_C_2147481393
+[2022.10.11-08.56.45:921][187]LogTemp: ActionRemove...
+[2022.10.11-08.56.46:136][219]LogTemp: Stopped: BP_EffectBurn_C_2147481388
+[2022.10.11-08.56.46:136][219]LogTemp: ActionRemove...
+[2022.10.11-08.56.46:362][251]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.46:362][251]LogTemp: Stopped: BP_EffectBurn_C_2147481384
+[2022.10.11-08.56.46:362][251]LogTemp: ActionRemove...
+[2022.10.11-08.56.46:723][299]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.46:723][299]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.46:864][318]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.46:871][319]LogTemp: Stopped: BP_EffectBurn_C_2147481379
+[2022.10.11-08.56.46:871][319]LogTemp: ActionRemove...
+[2022.10.11-08.56.47:290][389]LogTemp: Stopped: BP_EffectBurn_C_2147481374
+[2022.10.11-08.56.47:290][389]LogTemp: ActionRemove...
+[2022.10.11-08.56.47:366][405]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.47:866][510]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.47:870][511]LogTemp: Stopped: BP_EffectBurn_C_2147481369
+[2022.10.11-08.56.47:870][511]LogTemp: ActionRemove...
+[2022.10.11-08.56.48:371][616]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.48:721][689]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.48:721][689]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.48:871][720]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.49:371][820]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.49:871][922]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.50:728][ 92]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.50:728][ 92]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.52:723][465]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.52:723][465]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.53:390][596]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.53:895][664]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.54:402][733]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.54:719][778]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.54:719][778]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.54:906][806]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.55:913][977]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.56:417][ 85]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.56:721][149]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.56:721][149]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.56:919][189]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.57:418][277]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.57:918][365]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.58:421][464]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.56.58:720][527]LogTemp: Find 3 alive bots.
+[2022.10.11-08.56.58:720][527]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.56.58:923][570]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.57.00:720][849]LogTemp: Find 3 alive bots.
+[2022.10.11-08.57.00:720][849]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.57.02:720][112]LogTemp: Find 3 alive bots.
+[2022.10.11-08.57.02:720][112]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.57.04:720][379]LogTemp: Find 3 alive bots.
+[2022.10.11-08.57.04:720][379]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.57.06:719][636]LogTemp: Find 3 alive bots.
+[2022.10.11-08.57.06:719][636]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.57.06:980][671]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.57.07:487][732]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.57.07:995][795]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.57.08:499][862]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.57.08:646][881]LogTemp: OnActorKilled: Victim: BP_SpiderBoss_2, Killer: BP_PlayerCharacter_C_2147482452
+[2022.10.11-08.57.08:721][890]LogTemp: Find 2 alive bots.
+[2022.10.11-08.57.09:003][928]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.57.09:513][993]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.57.10:016][ 58]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.57.10:521][122]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.57.10:729][149]LogTemp: Find 3 alive bots.
+[2022.10.11-08.57.10:729][149]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.57.11:025][187]LogTemp: --------OnPawnSeen-------
+[2022.10.11-08.57.12:722][470]LogTemp: Find 3 alive bots.
+[2022.10.11-08.57.12:723][470]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.57.14:720][747]LogTemp: Find 3 alive bots.
+[2022.10.11-08.57.14:721][747]LogTemp: At maximum bot capacity. Skipping bot spawn.
+[2022.10.11-08.57.19:742][421]LogNet: Browse: /Game/MyGame/Maps/MainUIMap
+[2022.10.11-08.57.19:742][421]LogLoad: LoadMap: /Game/MyGame/Maps/MainUIMap
+[2022.10.11-08.57.19:742][421]LogWorld: BeginTearingDown for /Game/MyGame/Maps/NewMap
+[2022.10.11-08.57.19:743][421]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-08.57.19:744][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-08.57.19:774][421]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.11-08.57.19:783][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.11-08.57.19:787][421]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.10.11-08.57.19:877][421]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainUIMap'.
+[2022.10.11-08.57.19:878][421]LogAIModule: Creating AISystem for world MainUIMap
+[2022.10.11-08.57.19:878][421]LogLoad: Game class is 'BP_MainUIGameMode_C'
+[2022.10.11-08.57.19:879][421]LogWorld: Bringing World /Game/MyGame/Maps/MainUIMap.MainUIMap up for play (max tick rate 0) at 2022.10.11-16.57.19
+[2022.10.11-08.57.19:879][421]LogWorld: Bringing up level for play took: 0.000337
+[2022.10.11-08.57.19:879][421]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.11-08.57.19:879][421]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.11-08.57.19:879][421]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.11-08.57.19:879][421]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.11-08.57.19:881][421]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.11-08.57.19:881][421]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.10.11-08.57.19:881][421]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.11-08.57.19:881][421]LogLoad: Took 0.139105 seconds to LoadMap(/Game/MyGame/Maps/MainUIMap)
+[2022.10.11-08.57.25:229][934]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.11-08.57.25:229][934]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.11-08.57.25:229][934]LogNet: Browse: /Game/MyGame/Maps/NewMap
+[2022.10.11-08.57.25:229][934]LogLoad: LoadMap: /Game/MyGame/Maps/NewMap
+[2022.10.11-08.57.25:229][934]LogWorld: BeginTearingDown for /Game/MyGame/Maps/MainUIMap
+[2022.10.11-08.57.25:229][934]LogWorld: UWorld::CleanupWorld for MainUIMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-08.57.25:229][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-08.57.25:253][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.11-08.57.25:258][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.11-08.57.25:260][934]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.10.11-08.57.25:395][934]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2022.10.11-08.57.25:395][934]LogAIModule: Creating AISystem for world NewMap
+[2022.10.11-08.57.25:396][934]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.11-08.57.25:399][934]LogWorld: Bringing World /Game/MyGame/Maps/NewMap.NewMap up for play (max tick rate 0) at 2022.10.11-16.57.25
+[2022.10.11-08.57.25:400][934]LogWorld: Bringing up level for play took: 0.004223
+[2022.10.11-08.57.25:402][934]LogScript: Warning: Script Msg: Divide by zero detected: 179.999954 / 0
+Script call stack:
+	Function /Game/MyGame/Models/Player/Player_AnimBlueprint.Player_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/MyGame/Models/Player/Player_AnimBlueprint.Player_AnimBlueprint_C:ExecuteUbergraph_Player_AnimBlueprint
+
+[2022.10.11-08.57.25:403][934]LogActor: Warning: BP_SwordWeapon_C /Game/MyGame/Maps/NewMap.NewMap:PersistentLevel.BP_SwordWeapon_C_2147481147 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.11-08.57.25:403][934]LogActor: Warning: BP_SwordWeapon_C /Game/MyGame/Maps/NewMap.NewMap:PersistentLevel.BP_SwordWeapon_C_2147481146 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.11-08.57.25:403][934]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.10.11-08.57.25:403][934]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.10.11-08.57.25:403][934]LogTemp: Actions Num: 1
+[2022.10.11-08.57.25:403][934]LogTemp: Actions Num: 2
+[2022.10.11-08.57.25:405][934]LogLoad: Took 0.176687 seconds to LoadMap(/Game/MyGame/Maps/NewMap)
+[2022.10.11-08.57.25:513][936]LogRenderer: Reallocating scene render targets to support 1708x1432 Format 10 NumSamples 1 (Frame:2).
+[2022.10.11-08.57.27:228][ 80]LogTemp: Find 1 alive bots.
+[2022.10.11-08.57.27:689][119]LogRenderer: Reallocating scene render targets to support 1708x1068 Format 10 NumSamples 1 (Frame:185).
+[2022.10.11-08.57.29:141][261]LogNet: Browse: /Game/MyGame/Maps/MainUIMap
+[2022.10.11-08.57.29:141][261]LogLoad: LoadMap: /Game/MyGame/Maps/MainUIMap
+[2022.10.11-08.57.29:141][261]LogWorld: BeginTearingDown for /Game/MyGame/Maps/NewMap
+[2022.10.11-08.57.29:142][261]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-08.57.29:143][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-08.57.29:182][261]LogAudio: Display: Waited 38.183102 ms for audio thread.
+[2022.10.11-08.57.29:183][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.11-08.57.29:192][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.11-08.57.29:195][261]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.10.11-08.57.29:285][261]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainUIMap'.
+[2022.10.11-08.57.29:286][261]LogAIModule: Creating AISystem for world MainUIMap
+[2022.10.11-08.57.29:286][261]LogLoad: Game class is 'BP_MainUIGameMode_C'
+[2022.10.11-08.57.29:287][261]LogWorld: Bringing World /Game/MyGame/Maps/MainUIMap.MainUIMap up for play (max tick rate 0) at 2022.10.11-16.57.29
+[2022.10.11-08.57.29:287][261]LogWorld: Bringing up level for play took: 0.000329
+[2022.10.11-08.57.29:287][261]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.11-08.57.29:287][261]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.11-08.57.29:287][261]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.11-08.57.29:287][261]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.11-08.57.29:289][261]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.11-08.57.29:289][261]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.10.11-08.57.29:289][261]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.11-08.57.29:289][261]LogLoad: Took 0.148019 seconds to LoadMap(/Game/MyGame/Maps/MainUIMap)
+[2022.10.11-08.57.33:321][656]Closing by request
+[2022.10.11-08.57.33:321][656]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.10.11-08.57.33:321][656]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.10.11-08.57.33:321][656]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.10.11-08.57.33:328][657]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.10.11-08.57.33:329][657]LogInit: Display: PreExit Game.
+[2022.10.11-08.57.33:336][657]LogWorld: BeginTearingDown for /Game/MyGame/Maps/MainUIMap
+[2022.10.11-08.57.33:336][657]LogWorld: UWorld::CleanupWorld for MainUIMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-08.57.33:336][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-08.57.33:487][657]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.10.11-08.57.33:487][657]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.10.11-08.57.33:487][657]LogAudio: Display: Audio Device unregistered from world 'MainUIMap'.
+[2022.10.11-08.57.33:512][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.11-08.57.33:512][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.11-08.57.33:553][657]LogAudio: Display: Audio Device Manager Shutdown
+[2022.10.11-08.57.33:553][657]LogSlate: Request Window 'MyGame (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.10.11-08.57.33:559][657]LogSlate: Window 'MyGame (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.10.11-08.57.33:566][657]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (搜狗拼音输入法).
+[2022.10.11-08.57.33:572][657]LogExit: Preparing to exit.
+[2022.10.11-08.57.33:572][657]LogMoviePlayer: Shutting down movie player
+[2022.10.11-08.57.33:575][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.11-08.57.33:583][657]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.10.11-08.57.33:584][657]LogExit: Game engine shut down
+[2022.10.11-08.57.33:603][657]LogExit: Object subsystem successfully closed.
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module AutomationController (366)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module AutomationWorker (364)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module Voice (362)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module AIModule (360)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module NavigationSystem (359)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (356)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module WebMMedia (354)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module OpenXRInput (352)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module OculusMR (350)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (348)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (346)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (344)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (342)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module CharacterAI (340)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module PlanarCut (338)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module SessionServices (336)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module LiveCoding (334)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module LevelSequence (332)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (330)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module MovieScene (328)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (326)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (324)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module AudioMixerCore (323)
+[2022.10.11-08.57.33:611][657]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (320)
+[2022.10.11-08.57.33:612][657]LogModuleManager: Shutting down and abandoning module ProfilerService (318)
+[2022.10.11-08.57.33:695][657]LogModuleManager: Shutting down and abandoning module TaskGraph (316)
+[2022.10.11-08.57.33:695][657]LogModuleManager: Shutting down and abandoning module Synthesis (314)
+[2022.10.11-08.57.33:695][657]LogModuleManager: Shutting down and abandoning module TakeMovieScene (312)
+[2022.10.11-08.57.33:695][657]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (310)
+[2022.10.11-08.57.33:695][657]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (308)
+[2022.10.11-08.57.33:695][657]LogModuleManager: Shutting down and abandoning module LiveLink (306)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module OculusInput (304)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (302)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module GooglePAD (300)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (298)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module CableComponent (296)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module AudioCapture (294)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (293)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module AssetTags (290)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (288)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module AppleImageUtils (286)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module AndroidPermission (284)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (282)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MediaCompositing (280)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module ImgMedia (278)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (276)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (274)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (272)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (270)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (268)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (266)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MotoSynth (264)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module ChaosNiagara (262)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (260)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (258)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module EditableMesh (256)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MeshConversion (254)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module DynamicMesh (252)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (250)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module GeometricObjects (248)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module BackChannel (246)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module AutomationUtils (244)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (242)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module GeometryCache (240)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module UObjectPlugin (238)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (236)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module TemplateSequence (234)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MyGame (232)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (230)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (228)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module SoundFields (226)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (224)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (220)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module ActorSequence (218)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module UdpMessaging (216)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module TcpMessaging (214)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (212)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (210)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (208)
+[2022.10.11-08.57.34:488][657]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (206)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (204)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (202)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (200)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (198)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (196)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module MagicLeapController (194)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (192)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module MagicLeapAR (190)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (188)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (186)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module Niagara (184)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module SignalProcessing (183)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module NiagaraCore (180)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module FacialAnimation (178)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module SignificanceManager (176)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module AnimationSharing (174)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module GameplayCameras (172)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (170)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module Paper2D (168)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module EnhancedInput (166)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module DataRegistry (164)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module GameplayAbilities (162)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module GameplayDebugger (161)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (158)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (156)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (154)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module PacketHandler (152)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (150)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module MediaAssets (148)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module Overlay (146)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module FunctionalTesting (144)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module MessageLog (142)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module UMG (140)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module SlateReflector (138)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module Slate (136)
+[2022.10.11-08.57.34:489][657]LogModuleManager: Shutting down and abandoning module SlateCore (134)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module MRMesh (132)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module Messaging (130)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (128)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module XAudio2 (126)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module Networking (124)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module Core (122)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (120)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module ImageWrapper (116)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module D3D11RHI (114)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module Chaos (106)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (104)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (103)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module AVEncoder (102)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (98)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module SteamVRInput (96)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module SteamVR (94)
+[2022.10.11-08.57.34:490][657]LogHMD: Freeing OpenVRDLLHandle.
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (92)
+[2022.10.11-08.57.34:490][657]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module OpenXRAR (90)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module AugmentedReality (89)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module OpenXRHMD (86)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (84)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module ChunkDownloader (78)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2022.10.11-08.57.34:490][657]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2022.10.11-08.57.34:491][657]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.10.11-08.57.34:497][657]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2022.10.11-08.57.34:498][657]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2022.10.11-08.57.34:498][657]LogModuleManager: Shutting down and abandoning module Media (61)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module MediaInfo (60)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (56)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module MLSDK (54)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module MagicLeap (52)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (50)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module NiagaraShader (48)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module ChaosCloth (46)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module VariantManagerContent (44)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module DatasmithContent (42)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module PixWinPlugin (40)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module AISupportModule (38)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (30)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (28)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.10.11-08.57.34:500][657]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.10.11-08.57.34:501][657]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.10.11-08.57.34:501][657]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.10.11-08.57.34:501][657]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.10.11-08.57.34:501][657]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.10.11-08.57.34:501][657]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.10.11-08.57.34:501][657]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.10.11-08.57.34:501][657]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.10.11-08.57.34:501][657]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.10.11-08.57.34:501][657]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.10.11-08.57.34:503][657]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.10.11-08.57.34:503][657]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.10.11-08.57.34:510][657]LogD3D11RHI: Shutdown
+[2022.10.11-08.57.34:510][657]LogD3D11RHI: CleanupD3DDevice
+[2022.10.11-08.57.34:512][657]LogExit: Exiting.
+[2022.10.11-08.57.34:515][657]Log file closed, 10/11/22 16:57:34
